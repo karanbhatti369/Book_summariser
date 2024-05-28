@@ -1,4 +1,7 @@
-python-dotenv
+tk
+requests
 openai
 tiktoken
-requests
+python-dotenv
+PyMuPDF
+googletrans==4.0.0-rc1
